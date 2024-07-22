@@ -1,6 +1,6 @@
 from random import randint
 start = input("Type 'YES' to start:")
-while start not in ['NO']:
+while start  in ['YES']:
 	print('Guess a number to play this game!')
 
 
